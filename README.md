@@ -4,7 +4,7 @@ Lead Concept Artist - Ashtyn Carns -> https://www.artstation.com/artwork/elqedY 
 Concept Artist - Annie Lin -> https://www.artstation.com/artwork/rJQom6 <br/>
 Concept Artist / Voice Actor - Vincent Lee -> https://www.artstation.com/vlee22979 <br/>
 Concept Artist - Shaon Bischoff -> https://www.artstation.com/shaonbis <br/>
-Environmental Artist / 3D Artist - Jaedon Godfrey-> https://www.artstation.com/jaedangodfrey4 <br/>
+Environmental Artist / 3D Artist - Jaedan Godfrey-> https://www.artstation.com/jaedangodfrey4 <br/>
 VFX Artist - Justice Murray -> https://www.artstation.com/flamejay39 <br/> 
 Rigger - Cooper Crawford -> https://www.artstation.com/cooperc376 <br/>
 Composer / SFX - Ethan Grohe -> https://ethangrohemusic.wordpress.com/ <br/>
