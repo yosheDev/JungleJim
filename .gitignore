@@ -75,3 +75,12 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 MigrateProject.uproject
 MigrateProject.uproject
+Content/__ExternalActors__/Levels/Level_Dameron/9/DK/5MPA9NZGFDF6I93Z8JGAZR.uasset
+Content/Art/Effects/Particles/Masks/T_Mask_Gradient_Horizontal_Small.uasset
+Content/Art/Effects/Particles/Masks/T_Mask_Gradient_Horizontal_Small2.uasset
+Content/Art/Effects/Particles/Masks/T_WavyRight_Loop.uasset
+Content/Art/Effects/Textures/Masks/T_FX_Mask_CircleRepeat1.uasset
+Content/Blueprints/Player/Animation/Cinematics/LevelClear/AS_Jim_LevelClear.uasset
+Content/Blueprints/Player/Animation/Cinematics/LevelClear/AS_Jim_LevelClear_Idle.uasset
+Content/Sounds/Music/MUS_LevelClear.uasset
+Content/Sounds/Music/MUS_LevelClear_Loop.uasset
