@@ -5,9 +5,10 @@ Lead Concept Artist - Ashtyn Carns -> https://www.artstation.com/artwork/elqedY 
 Concept Artist - Annie Lin -> https://www.artstation.com/artwork/rJQom6 <br/>
 Concept Artist / Voice Actor - Vincent Lee -> https://www.artstation.com/vlee22979 <br/>
 Concept Artist - Shaon Bischoff -> https://www.artstation.com/shaonbis <br/>
-UI Designer - Thomas Jackson -> (portfolio here)
+UI Designer - Thomas Jackson -> https://www.artstation.com/bolero_creates <br/>
 3D Artist - Jaedon Wallace -> https://www.artstation.com/jaedonwallace13
 3D Artist / Environmental Artist - Jaedan Godfrey-> https://www.artstation.com/jaedangodfrey4 <br/>
+3D Artist / Environmental Artist - Parker Chester -> https://www.artstation.com/parkerchester <br/>
 Modeler - Nancy Alvarez -> https://www.artstation.com/nancy_alvarez
 Modeler - Krunal Mistry -> https://omi5910.artstation.com/ <br/>
 Modeler - Alyssa Raetzel -> https://alyssaraetzel2.artstation.com/resume <br/>
