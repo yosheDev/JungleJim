@@ -6,6 +6,9 @@
 *.lo
 *.o
 *.obj
+*.fbx
+*.targa
+*.png
 
 # Precompiled Headers
 *.gch
