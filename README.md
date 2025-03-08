@@ -1,4 +1,4 @@
-**COPYRIGHT FORMALLY REGISTERED.** *ALL COPYRIGHTABLE WORK PRESENT CAN AND WILL BE PROSECUTED WITH ATTOURNEY FEES IN EVENT OF INFRINGEMENT.*<br/>
+**COPYRIGHT FORMALLY REGISTERED.** *<br/>
 **Student led game project started in August 2023. Still progressing!** <br/>
 Game Director / Lead Game Designer / Lead Programmer - Jacob Jones -> https://jonesjacobgd.com/ <br/>
 Lead Concept Artist - Ashtyn Carns -> https://www.artstation.com/artwork/elqedY <br/>
