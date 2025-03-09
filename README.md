@@ -1,4 +1,4 @@
-**COPYRIGHT FORMALLY REGISTERED.** *ALL COPYRIGHTABLE WORK PRESENT CAN AND WILL BE PROSECUTED WITH ATTOURNEY FEES IN EVENT OF INFRINGEMENT.*<br/>
+**COPYRIGHT FORMALLY REGISTERED.** *<br/>
 **Student led game project started in August 2023. Still progressing!** <br/>
 Game Director / Lead Game Designer / Lead Programmer - Jacob Jones -> https://jonesjacobgd.com/ <br/>
 Lead Concept Artist - Ashtyn Carns -> https://www.artstation.com/artwork/elqedY <br/>
@@ -6,7 +6,7 @@ Concept Artist - Annie Lin -> https://www.artstation.com/artwork/rJQom6 <br/>
 Concept Artist / Voice Actor - Vincent Lee -> https://www.artstation.com/vlee22979 <br/>
 Concept Artist - Shaon Bischoff -> https://www.artstation.com/shaonbis <br/>
 UI Designer - Thomas Jackson -> https://www.artstation.com/bolero_creates <br/>
-3D Artist - Jaedon Wallace -> https://www.artstation.com/jaedonwallace13
+3D Artist - Jaedon Wallace -> https://www.artstation.com/jaedonwallace13 <br/>
 3D Artist / Environmental Artist - Jaedan Godfrey-> https://www.artstation.com/jaedangodfrey4 <br/>
 3D Artist / Environmental Artist - Parker Chester -> https://www.artstation.com/parkerchester <br/>
 Modeler - Nancy Alvarez -> https://www.artstation.com/nancy_alvarez
