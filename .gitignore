@@ -6,6 +6,9 @@
 *.lo
 *.o
 *.obj
+*.fbx
+*.targa
+*.png
 
 # Precompiled Headers
 *.gch
@@ -74,3 +77,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 MigrateProject.uproject
+*.psd
