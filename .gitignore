@@ -77,4 +77,11 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 MigrateProject.uproject
+
+
+# Not needed in the repo
 *.psd
+*.wav
+*.targa
+*.png
+*.tga
