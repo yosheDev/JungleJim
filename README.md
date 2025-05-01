@@ -22,3 +22,4 @@ Animator - Joel Cedillo -> https://www.artstation.com/joelcedillo <br/>
 Programmer - Alan Garcia -> https://alandigarcia.itch.io/ <br/>
 Programmer - Dameron Cook -> https://dameron-cook.itch.io/ <br/>
 Programmer - Gavin Steier -> https://gavingamedesign.itch.io/ <br/>
+JIM SMOOTH - Sam Guy
