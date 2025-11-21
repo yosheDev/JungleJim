@@ -9,6 +9,7 @@
 *.fbx
 *.targa
 *.png
+*.glb
 
 # Precompiled Headers
 *.gch
@@ -85,3 +86,5 @@ MigrateProject.uproject
 *.targa
 *.png
 *.tga
+*.wav
+*.mp3
